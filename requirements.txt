@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+scipy
+ast
+sklearn
+nltk
+surprise
+streamlit
+warnings
