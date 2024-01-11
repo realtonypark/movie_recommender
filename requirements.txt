@@ -2,9 +2,6 @@ pandas
 numpy
 seaborn
 scipy
-ast
-sklearn
+scikit-learn
 nltk
-surprise
 streamlit
-warnings
